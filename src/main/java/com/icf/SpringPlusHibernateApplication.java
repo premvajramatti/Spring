@@ -8,6 +8,7 @@ public class SpringPlusHibernateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringPlusHibernateApplication.class, args);
+		System.out.println("started");
 	}
 
 }
